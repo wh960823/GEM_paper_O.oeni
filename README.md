@@ -6,3 +6,5 @@ Codes using for analyzing data in paper 'Deciphering mechanisms of Oenococcus oe
 generate_random_samples.py- Python script: Generate all combinations of metabolome biological replicates for testing MixOmics analysis
 
 Integrate_Omics.R - R script: Integrative analysis of transcriptome and metabolome data using DIABLO method in MixOmics package
+
+REMI_Oeni.m - Matlab script: REMI analysis used in the study.
